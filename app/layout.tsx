@@ -5,6 +5,9 @@ import { AuthProvider } from "@/context/AuthContext";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
+// All pages use Firebase auth — force dynamic rendering (no static prerender)
+export const dynamic = "force-dynamic";
+
 export const metadata: Metadata = {
   title: "ColorBook — Paint by Numbers for Adults",
   description:
