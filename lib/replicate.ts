@@ -19,7 +19,7 @@ export async function generateColoringImage(prompt: string): Promise<string> {
   );
 
   if (Array.isArray(output) && output.length > 0) {
-    return output[0] as string;
+    return output[0] as unknown as string;
   }
-  return output as string;
+  return output as unknown as string;
 }
