@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <!-- Sky through canopy -->
+  <rect x="0" y="0" width="800" height="300" fill="#ffffff" stroke="#333" stroke-width="1" data-region-id="sky" data-color-number="7"/>
+
+  <!-- Background trees (far) -->
+  <path d="M0 250 Q50 50 100 250 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="bg-tree-1" data-color-number="9"/>
+  <path d="M680 250 Q730 60 780 250 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="bg-tree-2" data-color-number="9"/>
+  <path d="M350 220 Q400 50 450 220 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="bg-tree-3" data-color-number="9"/>
+
+  <!-- Forest floor -->
+  <path d="M0 600 Q200 570 400 590 Q600 610 800 590 L800 800 L0 800 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="floor" data-color-number="8"/>
+
+  <!-- Left large tree trunk -->
+  <rect x="30" y="200" width="80" height="600" rx="20" fill="#ffffff" stroke="#333" stroke-width="2" data-region-id="trunk-l" data-color-number="3"/>
+  <!-- Left tree canopy -->
+  <ellipse cx="70" cy="180" rx="120" ry="100" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="canopy-l-main" data-color-number="1"/>
+  <ellipse cx="30" cy="220" rx="80" ry="70" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="canopy-l-side" data-color-number="1"/>
+  <ellipse cx="120" cy="200" rx="90" ry="75" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="canopy-l-right" data-color-number="2"/>
+
+  <!-- Right large tree trunk -->
+  <rect x="690" y="200" width="80" height="600" rx="20" fill="#ffffff" stroke="#333" stroke-width="2" data-region-id="trunk-r" data-color-number="3"/>
+  <!-- Right tree canopy -->
+  <ellipse cx="730" cy="180" rx="120" ry="100" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="canopy-r-main" data-color-number="1"/>
+  <ellipse cx="690" cy="220" rx="80" ry="70" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="canopy-r-left" data-color-number="2"/>
+  <ellipse cx="770" cy="200" rx="80" ry="70" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="canopy-r-right" data-color-number="1"/>
+
+  <!-- Center tree trunk -->
+  <rect x="360" y="350" width="80" height="450" rx="15" fill="#ffffff" stroke="#333" stroke-width="2" data-region-id="trunk-center" data-color-number="3"/>
+
+  <!-- Tree bark texture lines (left) -->
+  <path d="M50 300 Q60 350 50 400" fill="none" stroke="#333" stroke-width="1" data-region-id="bark-l-1" data-color-number="3"/>
+  <path d="M80 320 Q70 370 80 420" fill="none" stroke="#333" stroke-width="1" data-region-id="bark-l-2" data-color-number="3"/>
+
+  <!-- Mushrooms -->
+  <!-- Large mushroom 1 -->
+  <ellipse cx="200" cy="650" rx="50" ry="20" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="mushroom-1-cap" data-color-number="5"/>
+  <path d="M175 650 Q185 700 215 700 Q230 700 225 650 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="mushroom-1-stem" data-color-number="4"/>
+  <ellipse cx="195" cy="640" rx="55" ry="22" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="mushroom-1-top" data-color-number="5"/>
+
+  <!-- Mushroom dots -->
+  <circle cx="185" cy="635" r="7" fill="#ffffff" stroke="#333" stroke-width="1" data-region-id="dot-1" data-color-number="4"/>
+  <circle cx="205" cy="630" r="5" fill="#ffffff" stroke="#333" stroke-width="1" data-region-id="dot-2" data-color-number="4"/>
+  <circle cx="220" cy="638" r="6" fill="#ffffff" stroke="#333" stroke-width="1" data-region-id="dot-3" data-color-number="4"/>
+
+  <!-- Small mushroom -->
+  <ellipse cx="560" cy="665" rx="30" ry="12" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="mushroom-2-cap" data-color-number="5"/>
+  <path d="M547 665 Q552 695 568 695 Q578 695 573 665 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="mushroom-2-stem" data-color-number="4"/>
+
+  <!-- Ferns -->
+  <path d="M280 700 Q300 640 340 620 Q320 660 350 680 Q330 700 280 700 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="fern-1" data-color-number="2"/>
+  <path d="M450 710 Q470 650 510 630 Q490 670 520 690 Q500 710 450 710 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="fern-2" data-color-number="2"/>
+
+  <!-- Sun rays filtering through -->
+  <path d="M350 0 L280 300" fill="none" stroke="#333" stroke-width="1" stroke-dasharray="5,8" data-region-id="sun-ray-1" data-color-number="6"/>
+  <path d="M420 0 L380 300" fill="none" stroke="#333" stroke-width="1" stroke-dasharray="5,8" data-region-id="sun-ray-2" data-color-number="6"/>
+  <path d="M470 0 L500 300" fill="none" stroke="#333" stroke-width="1" stroke-dasharray="5,8" data-region-id="sun-ray-3" data-color-number="6"/>
+
+  <!-- Owl on branch -->
+  <path d="M130 380 L300 380" stroke="#333" stroke-width="8" stroke-linecap="round" data-region-id="branch-l" data-color-number="3"/>
+  <!-- Owl body -->
+  <ellipse cx="285" cy="350" rx="25" ry="35" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="owl-body" data-color-number="8"/>
+  <!-- Owl face -->
+  <circle cx="285" cy="330" r="20" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="owl-face" data-color-number="4"/>
+  <!-- Owl eyes -->
+  <circle cx="278" cy="328" r="7" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="owl-eye-l" data-color-number="6"/>
+  <circle cx="292" cy="328" r="7" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="owl-eye-r" data-color-number="6"/>
+  <!-- Owl ears -->
+  <path d="M272 313 L268 302 L280 310 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="owl-ear-l" data-color-number="8"/>
+  <path d="M298 313 L302 302 L290 310 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="owl-ear-r" data-color-number="8"/>
+
+  <!-- Fireflies/glowing dots -->
+  <circle cx="430" cy="450" r="5" fill="#ffffff" stroke="#333" stroke-width="1" data-region-id="firefly-1" data-color-number="6"/>
+  <circle cx="520" cy="400" r="4" fill="#ffffff" stroke="#333" stroke-width="1" data-region-id="firefly-2" data-color-number="6"/>
+  <circle cx="350" cy="480" r="5" fill="#ffffff" stroke="#333" stroke-width="1" data-region-id="firefly-3" data-color-number="6"/>
+
+  <!-- Number labels -->
+  <text x="70" y="180" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">1</text>
+  <text x="120" y="215" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">2</text>
+  <text x="70" y="400" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">3</text>
+  <text x="200" y="700" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">4</text>
+  <text x="200" y="640" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">5</text>
+  <text x="400" y="270" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">6</text>
+  <text x="400" y="100" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">7</text>
+  <text x="400" y="750" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">8</text>
+  <text x="400" y="450" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">9</text>
+  <text x="280" y="700" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">2</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <!-- Outer ring -->
+  <circle cx="400" cy="400" r="370" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="outer-ring" data-color-number="1"/>
+  <circle cx="400" cy="400" r="340" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="ring-2" data-color-number="2"/>
+
+  <!-- 8 large outer petals -->
+  <ellipse cx="400" cy="120" rx="45" ry="90" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="petal-top" data-color-number="3"/>
+  <ellipse cx="400" cy="680" rx="45" ry="90" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(180 400 400)" data-region-id="petal-bot" data-color-number="3"/>
+  <ellipse cx="120" cy="400" rx="90" ry="45" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="petal-left" data-color-number="3"/>
+  <ellipse cx="680" cy="400" rx="90" ry="45" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="petal-right" data-color-number="3"/>
+
+  <!-- 4 diagonal petals -->
+  <ellipse cx="242" cy="242" rx="45" ry="90" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(-45 242 242)" data-region-id="petal-tl" data-color-number="4"/>
+  <ellipse cx="558" cy="242" rx="45" ry="90" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(45 558 242)" data-region-id="petal-tr" data-color-number="4"/>
+  <ellipse cx="242" cy="558" rx="45" ry="90" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(45 242 558)" data-region-id="petal-bl" data-color-number="4"/>
+  <ellipse cx="558" cy="558" rx="45" ry="90" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(-45 558 558)" data-region-id="petal-br" data-color-number="4"/>
+
+  <!-- Inner ring -->
+  <circle cx="400" cy="400" r="220" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="inner-ring" data-color-number="5"/>
+
+  <!-- Second layer petals (smaller) -->
+  <ellipse cx="400" cy="230" rx="30" ry="65" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="inner-petal-top" data-color-number="6"/>
+  <ellipse cx="400" cy="570" rx="30" ry="65" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(180 400 400)" data-region-id="inner-petal-bot" data-color-number="6"/>
+  <ellipse cx="230" cy="400" rx="65" ry="30" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="inner-petal-left" data-color-number="6"/>
+  <ellipse cx="570" cy="400" rx="65" ry="30" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="inner-petal-right" data-color-number="6"/>
+
+  <!-- Inner diagonal details -->
+  <ellipse cx="312" cy="312" rx="30" ry="65" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(-45 312 312)" data-region-id="inner-diag-tl" data-color-number="7"/>
+  <ellipse cx="488" cy="312" rx="30" ry="65" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(45 488 312)" data-region-id="inner-diag-tr" data-color-number="7"/>
+  <ellipse cx="312" cy="488" rx="30" ry="65" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(45 312 488)" data-region-id="inner-diag-bl" data-color-number="7"/>
+  <ellipse cx="488" cy="488" rx="30" ry="65" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(-45 488 488)" data-region-id="inner-diag-br" data-color-number="7"/>
+
+  <!-- Core ring -->
+  <circle cx="400" cy="400" r="110" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="core-ring" data-color-number="8"/>
+
+  <!-- Geometric star in core -->
+  <polygon points="400,305 420,375 495,375 435,418 458,490 400,448 342,490 365,418 305,375 380,375" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="core-star" data-color-number="9"/>
+
+  <!-- Center circle -->
+  <circle cx="400" cy="400" r="42" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="center" data-color-number="10"/>
+
+  <!-- Dot accents around center -->
+  <circle cx="400" cy="330" r="8" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="dot-top" data-color-number="1"/>
+  <circle cx="400" cy="470" r="8" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="dot-bot" data-color-number="1"/>
+  <circle cx="330" cy="400" r="8" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="dot-left" data-color-number="1"/>
+  <circle cx="470" cy="400" r="8" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="dot-right" data-color-number="1"/>
+
+  <!-- Number labels -->
+  <text x="400" y="25" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">1</text>
+  <text x="400" y="100" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">2</text>
+  <text x="400" y="145" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">3</text>
+  <text x="270" y="270" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">4</text>
+  <text x="400" y="195" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">5</text>
+  <text x="400" y="250" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">6</text>
+  <text x="330" y="330" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">7</text>
+  <text x="400" y="310" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">8</text>
+  <text x="400" y="380" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">9</text>
+  <text x="400" y="405" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">10</text>
+</svg>

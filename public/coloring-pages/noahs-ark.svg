@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <!-- Sky background -->
+  <path d="M0 0 L800 0 L800 500 L0 500 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="sky" data-color-number="1"/>
+
+  <!-- Rainbow arc 1 (outermost - red) -->
+  <path d="M50 400 Q400 50 750 400" fill="none" stroke="#333" stroke-width="30" data-region-id="rainbow-1" data-color-number="6"/>
+
+  <!-- Rainbow arc 2 -->
+  <path d="M80 400 Q400 90 720 400" fill="none" stroke="#333" stroke-width="28" data-region-id="rainbow-2" data-color-number="3"/>
+
+  <!-- Rainbow arc 3 -->
+  <path d="M108 400 Q400 125 692 400" fill="none" stroke="#333" stroke-width="26" data-region-id="rainbow-3" data-color-number="5"/>
+
+  <!-- Rainbow arc 4 -->
+  <path d="M134 400 Q400 155 666 400" fill="none" stroke="#333" stroke-width="24" data-region-id="rainbow-4" data-color-number="4"/>
+
+  <!-- Rainbow arc 5 (innermost - violet) -->
+  <path d="M158 400 Q400 180 642 400" fill="none" stroke="#333" stroke-width="22" data-region-id="rainbow-5" data-color-number="7"/>
+
+  <!-- Clouds -->
+  <ellipse cx="150" cy="120" rx="80" ry="45" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="cloud-1" data-color-number="8"/>
+  <ellipse cx="200" cy="105" rx="60" ry="40" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="cloud-1b" data-color-number="8"/>
+  <ellipse cx="620" cy="130" rx="80" ry="45" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="cloud-2" data-color-number="8"/>
+  <ellipse cx="670" cy="115" rx="60" ry="40" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="cloud-2b" data-color-number="8"/>
+
+  <!-- Sun -->
+  <circle cx="680" cy="80" r="45" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="sun" data-color-number="5"/>
+
+  <!-- Ocean / water -->
+  <path d="M0 520 Q100 500 200 520 Q300 540 400 520 Q500 500 600 520 Q700 540 800 520 L800 800 L0 800 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="ocean" data-color-number="2"/>
+
+  <!-- Water waves -->
+  <path d="M0 560 Q100 545 200 560 Q300 575 400 560 Q500 545 600 560 Q700 575 800 560" fill="none" stroke="#333" stroke-width="1.5" data-region-id="wave-1" data-color-number="10"/>
+  <path d="M0 590 Q100 578 200 590 Q300 602 400 590 Q500 578 600 590 Q700 602 800 590" fill="none" stroke="#333" stroke-width="1.5" data-region-id="wave-2" data-color-number="10"/>
+
+  <!-- Ark hull -->
+  <path d="M180 500 Q200 460 250 450 L550 450 Q600 460 620 500 Q600 520 400 525 Q200 520 180 500 Z" fill="#ffffff" stroke="#333" stroke-width="2" data-region-id="ark-hull" data-color-number="9"/>
+
+  <!-- Ark deck -->
+  <rect x="220" y="380" width="360" height="70" rx="5" fill="#ffffff" stroke="#333" stroke-width="2" data-region-id="ark-deck" data-color-number="3"/>
+
+  <!-- Ark cabin (lower) -->
+  <rect x="240" y="290" width="320" height="95" rx="8" fill="#ffffff" stroke="#333" stroke-width="2" data-region-id="ark-cabin" data-color-number="3"/>
+
+  <!-- Ark roof -->
+  <path d="M230 295 L400 230 L570 295 Z" fill="#ffffff" stroke="#333" stroke-width="2" data-region-id="ark-roof" data-color-number="9"/>
+
+  <!-- Windows on cabin -->
+  <rect x="265" y="310" width="50" height="40" rx="4" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="window-1" data-color-number="1"/>
+  <rect x="375" y="310" width="50" height="40" rx="4" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="window-2" data-color-number="1"/>
+  <rect x="485" y="310" width="50" height="40" rx="4" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="window-3" data-color-number="1"/>
+
+  <!-- Dove with olive branch -->
+  <ellipse cx="390" cy="210" rx="22" ry="14" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="dove-body" data-color-number="8"/>
+  <path d="M368 208 Q355 195 365 185 Q370 205 368 208 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="dove-wing" data-color-number="8"/>
+  <path d="M412 210 L430 205 L428 215 L412 212 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="dove-tail" data-color-number="8"/>
+  <path d="M412 208 Q425 200 430 205" fill="none" stroke="#333" stroke-width="1.5" data-region-id="olive-branch" data-color-number="4"/>
+
+  <!-- Animals peeking from cabin - pair of giraffes -->
+  <rect x="255" y="255" width="18" height="50" rx="4" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="giraffe-neck-1" data-color-number="5"/>
+  <ellipse cx="264" cy="252" rx="12" ry="10" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="giraffe-head-1" data-color-number="5"/>
+  <rect x="280" y="260" width="18" height="45" rx="4" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="giraffe-neck-2" data-color-number="5"/>
+  <ellipse cx="289" cy="257" rx="12" ry="10" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="giraffe-head-2" data-color-number="5"/>
+
+  <!-- Number labels -->
+  <text x="400" y="260" text-anchor="middle" font-size="11" fill="#555" pointer-events="none">1</text>
+  <text x="400" y="130" text-anchor="middle" font-size="11" fill="#555" pointer-events="none">6</text>
+  <text x="400" y="420" text-anchor="middle" font-size="11" fill="#555" pointer-events="none">3</text>
+  <text x="400" y="490" text-anchor="middle" font-size="11" fill="#555" pointer-events="none">9</text>
+  <text x="400" y="590" text-anchor="middle" font-size="11" fill="#555" pointer-events="none">2</text>
+  <text x="680" y="85" text-anchor="middle" font-size="11" fill="#555" pointer-events="none">5</text>
+  <text x="155" y="125" text-anchor="middle" font-size="11" fill="#555" pointer-events="none">8</text>
+</svg>

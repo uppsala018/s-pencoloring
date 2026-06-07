@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <!-- Sunset sky gradient simulation -->
+  <rect x="0" y="0" width="800" height="420" fill="#ffffff" stroke="#333" stroke-width="1" data-region-id="sky-top" data-color-number="3"/>
+  <path d="M0 250 L800 250 L800 420 L0 420 Z" fill="#ffffff" stroke="#333" stroke-width="1" data-region-id="sky-horizon" data-color-number="3"/>
+
+  <!-- Sun setting -->
+  <circle cx="400" cy="260" r="70" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="sun" data-color-number="4"/>
+  <!-- Sun rays -->
+  <line x1="400" y1="175" x2="400" y2="155" stroke="#333" stroke-width="2" data-region-id="ray-top" data-color-number="4"/>
+  <line x1="310" y1="200" x2="295" y2="185" stroke="#333" stroke-width="2" data-region-id="ray-tl" data-color-number="4"/>
+  <line x1="490" y1="200" x2="505" y2="185" stroke="#333" stroke-width="2" data-region-id="ray-tr" data-color-number="4"/>
+  <line x1="275" y1="260" x2="255" y2="260" stroke="#333" stroke-width="2" data-region-id="ray-l" data-color-number="4"/>
+  <line x1="525" y1="260" x2="545" y2="260" stroke="#333" stroke-width="2" data-region-id="ray-r" data-color-number="4"/>
+
+  <!-- Clouds -->
+  <ellipse cx="180" cy="150" rx="80" ry="35" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="cloud-1" data-color-number="7"/>
+  <ellipse cx="620" cy="140" rx="90" ry="38" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="cloud-2" data-color-number="7"/>
+
+  <!-- Ocean -->
+  <path d="M0 400 Q200 380 400 400 Q600 420 800 400 L800 800 L0 800 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="ocean" data-color-number="1"/>
+
+  <!-- Deep ocean -->
+  <path d="M0 500 Q200 485 400 500 Q600 515 800 500 L800 800 L0 800 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="deep-ocean" data-color-number="9"/>
+
+  <!-- Waves -->
+  <path d="M0 430 Q100 420 200 430 Q300 440 400 430 Q500 420 600 430 Q700 440 800 430" fill="none" stroke="#333" stroke-width="1.5" data-region-id="wave-1" data-color-number="2"/>
+  <path d="M0 460 Q100 450 200 460 Q300 470 400 460 Q500 450 600 460 Q700 470 800 460" fill="none" stroke="#333" stroke-width="1.5" data-region-id="wave-2" data-color-number="2"/>
+
+  <!-- Coral reef (underwater) -->
+  <path d="M80 700 Q100 620 130 600 Q160 580 150 700 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="coral-1" data-color-number="5"/>
+  <path d="M200 720 Q220 640 250 620 Q275 600 270 720 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="coral-2" data-color-number="5"/>
+  <path d="M550 710 Q570 630 595 615 Q620 600 615 710 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="coral-3" data-color-number="5"/>
+  <path d="M660 700 Q680 625 700 610 Q725 595 720 700 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="coral-4" data-color-number="5"/>
+
+  <!-- Sea anemone -->
+  <circle cx="350" cy="720" r="25" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="anemone" data-color-number="6"/>
+  <ellipse cx="340" cy="695" rx="8" ry="22" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="tentacle-1" data-color-number="6"/>
+  <ellipse cx="355" cy="692" rx="8" ry="22" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="tentacle-2" data-color-number="6"/>
+  <ellipse cx="370" cy="695" rx="8" ry="22" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="tentacle-3" data-color-number="6"/>
+
+  <!-- Fish 1 (tropical) -->
+  <ellipse cx="500" cy="580" rx="45" ry="28" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="fish-1-body" data-color-number="3"/>
+  <path d="M545 580 L575 560 L575 600 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="fish-1-tail" data-color-number="3"/>
+  <circle cx="468" cy="575" r="7" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="fish-1-eye" data-color-number="9"/>
+  <ellipse cx="500" cy="580" rx="8" ry="28" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="fish-1-stripe" data-color-number="7"/>
+
+  <!-- Fish 2 -->
+  <ellipse cx="230" cy="620" rx="35" ry="22" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="fish-2-body" data-color-number="8"/>
+  <path d="M265 620 L285 608 L285 632 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="fish-2-tail" data-color-number="8"/>
+  <circle cx="203" cy="616" r="5" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="fish-2-eye" data-color-number="9"/>
+
+  <!-- Seabed -->
+  <path d="M0 760 Q200 740 400 760 Q600 780 800 760 L800 800 L0 800 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="seabed" data-color-number="10"/>
+
+  <!-- Seaweed -->
+  <path d="M420 760 Q430 720 420 690 Q410 660 425 630 Q440 600 430 570" fill="none" stroke="#333" stroke-width="2.5" data-region-id="seaweed-1" data-color-number="2"/>
+  <path d="M460 760 Q470 725 455 695 Q445 665 460 640 Q475 615 465 585" fill="none" stroke="#333" stroke-width="2.5" data-region-id="seaweed-2" data-color-number="2"/>
+
+  <!-- Number labels -->
+  <text x="400" y="520" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">1</text>
+  <text x="400" y="455" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">2</text>
+  <text x="400" y="200" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">3</text>
+  <text x="400" y="265" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">4</text>
+  <text x="130" y="650" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">5</text>
+  <text x="355" y="715" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">6</text>
+  <text x="180" y="155" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">7</text>
+  <text x="230" y="623" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">8</text>
+  <text x="400" y="660" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">9</text>
+  <text x="400" y="775" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">10</text>
+</svg>

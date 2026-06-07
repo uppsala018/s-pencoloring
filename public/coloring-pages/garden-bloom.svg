@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <!-- Sky -->
+  <rect x="0" y="0" width="800" height="450" fill="#ffffff" stroke="#333" stroke-width="1" data-region-id="sky" data-color-number="5"/>
+
+  <!-- Ground -->
+  <path d="M0 450 Q200 420 400 440 Q600 460 800 440 L800 800 L0 800 Z" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="ground" data-color-number="10"/>
+
+  <!-- Grass path -->
+  <path d="M50 800 Q150 700 200 650 Q250 620 300 650 Q350 680 400 650 Q450 620 500 650 Q550 680 600 650 Q650 620 700 650 Q750 680 800 700" fill="none" stroke="#333" stroke-width="1.5" data-region-id="grass-path" data-color-number="3"/>
+
+  <!-- Large rose (center) -->
+  <circle cx="400" cy="300" r="55" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="rose-center" data-color-number="1"/>
+  <ellipse cx="400" cy="230" rx="35" ry="50" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="rose-petal-top" data-color-number="1"/>
+  <ellipse cx="340" cy="265" rx="35" ry="50" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(45 340 265)" data-region-id="rose-petal-tl" data-color-number="1"/>
+  <ellipse cx="460" cy="265" rx="35" ry="50" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(-45 460 265)" data-region-id="rose-petal-tr" data-color-number="1"/>
+  <ellipse cx="330" cy="340" rx="35" ry="50" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(70 330 340)" data-region-id="rose-petal-bl" data-color-number="1"/>
+  <ellipse cx="470" cy="340" rx="35" ry="50" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(-70 470 340)" data-region-id="rose-petal-br" data-color-number="1"/>
+
+  <!-- Rose stem & leaves -->
+  <line x1="400" y1="355" x2="400" y2="550" stroke="#333" stroke-width="2.5" data-region-id="rose-stem" data-color-number="3"/>
+  <ellipse cx="360" cy="440" rx="40" ry="22" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(-30 360 440)" data-region-id="rose-leaf-l" data-color-number="3"/>
+  <ellipse cx="440" cy="480" rx="40" ry="22" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(30 440 480)" data-region-id="rose-leaf-r" data-color-number="3"/>
+
+  <!-- Lavender sprigs (left cluster) -->
+  <line x1="150" y1="600" x2="150" y2="380" stroke="#333" stroke-width="2" data-region-id="lav-stem-1" data-color-number="3"/>
+  <line x1="180" y1="600" x2="180" y2="400" stroke="#333" stroke-width="2" data-region-id="lav-stem-2" data-color-number="3"/>
+  <line x1="120" y1="600" x2="120" y2="410" stroke="#333" stroke-width="2" data-region-id="lav-stem-3" data-color-number="3"/>
+  <!-- Lavender flowers -->
+  <ellipse cx="150" cy="380" rx="10" ry="25" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="lav-flower-1" data-color-number="2"/>
+  <ellipse cx="180" cy="400" rx="10" ry="25" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="lav-flower-2" data-color-number="2"/>
+  <ellipse cx="120" cy="410" rx="10" ry="25" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="lav-flower-3" data-color-number="2"/>
+  <ellipse cx="165" cy="390" rx="10" ry="25" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="lav-flower-4" data-color-number="2"/>
+
+  <!-- Sunflower (right) -->
+  <circle cx="640" cy="280" r="40" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="sunflower-center" data-color-number="8"/>
+  <ellipse cx="640" cy="215" rx="22" ry="38" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="sf-petal-1" data-color-number="4"/>
+  <ellipse cx="693" cy="233" rx="22" ry="38" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(60 693 233)" data-region-id="sf-petal-2" data-color-number="4"/>
+  <ellipse cx="693" cy="327" rx="22" ry="38" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(120 693 327)" data-region-id="sf-petal-3" data-color-number="4"/>
+  <ellipse cx="640" cy="345" rx="22" ry="38" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(180 640 345)" data-region-id="sf-petal-4" data-color-number="4"/>
+  <ellipse cx="587" cy="327" rx="22" ry="38" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(240 587 327)" data-region-id="sf-petal-5" data-color-number="4"/>
+  <ellipse cx="587" cy="233" rx="22" ry="38" fill="#ffffff" stroke="#333" stroke-width="1.5" transform="rotate(300 587 233)" data-region-id="sf-petal-6" data-color-number="4"/>
+  <line x1="640" y1="320" x2="640" y2="550" stroke="#333" stroke-width="2.5" data-region-id="sf-stem" data-color-number="3"/>
+
+  <!-- Butterfly -->
+  <ellipse cx="540" cy="200" rx="35" ry="22" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="butterfly-wing-l-top" data-color-number="6"/>
+  <ellipse cx="560" cy="200" rx="35" ry="22" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="butterfly-wing-r-top" data-color-number="6"/>
+  <ellipse cx="540" cy="222" rx="25" ry="15" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="butterfly-wing-l-bot" data-color-number="7"/>
+  <ellipse cx="560" cy="222" rx="25" ry="15" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="butterfly-wing-r-bot" data-color-number="7"/>
+  <line x1="550" y1="196" x2="550" y2="235" stroke="#333" stroke-width="2" data-region-id="butterfly-body" data-color-number="8"/>
+  <line x1="550" y1="196" x2="540" y2="185" stroke="#333" stroke-width="1.5" data-region-id="antenna-l" data-color-number="8"/>
+  <line x1="550" y1="196" x2="560" y2="185" stroke="#333" stroke-width="1.5" data-region-id="antenna-r" data-color-number="8"/>
+
+  <!-- Small daisy flowers -->
+  <circle cx="220" cy="430" r="15" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="daisy-1-center" data-color-number="9"/>
+  <circle cx="255" cy="420" r="15" fill="#ffffff" stroke="#333" stroke-width="1.5" data-region-id="daisy-2-center" data-color-number="9"/>
+
+  <!-- Number labels -->
+  <text x="400" y="305" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">1</text>
+  <text x="150" y="393" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">2</text>
+  <text x="400" y="445" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">3</text>
+  <text x="640" y="220" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">4</text>
+  <text x="400" y="180" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">5</text>
+  <text x="540" y="203" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">6</text>
+  <text x="540" y="225" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">7</text>
+  <text x="640" y="283" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">8</text>
+  <text x="220" y="433" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">9</text>
+  <text x="400" y="600" text-anchor="middle" font-size="10" fill="#555" pointer-events="none">10</text>
+</svg>
