@@ -132,7 +132,7 @@ export async function POST(req: NextRequest) {
   const results: string[] = [];
 
   for (const page of PAGES) {
-    const ref = adminDb.collection("coloringPages").doc();
+    const ref = adminDb().collection("coloringPages").doc();
     await ref.set({
       ...page,
       createdAt: FieldValue.serverTimestamp(),

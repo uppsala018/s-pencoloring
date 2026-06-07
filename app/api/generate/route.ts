@@ -6,9 +6,8 @@ export async function POST(req: NextRequest) {
   try {
     const { prompt, title, category, idToken } = await req.json();
 
-    // Only allow admin users to generate pages
-    const decoded = await adminAuth.verifyIdToken(idToken);
-    const userDoc = await adminDb.collection("users").doc(decoded.uid).get();
+    const decoded = await adminAuth().verifyIdToken(idToken);
+    const userDoc = await adminDb().collection("users").doc(decoded.uid).get();
     if (!userDoc.data()?.isAdmin) {
       return NextResponse.json({ error: "Unauthorized" }, { status: 403 });
     }
@@ -17,8 +16,7 @@ export async function POST(req: NextRequest) {
 
     const imageUrl = await generateColoringImage(prompt);
 
-    // Store metadata in Firestore (SVG processing happens separately)
-    const ref = await adminDb.collection("coloringPages").add({
+    const ref = await adminDb().collection("coloringPages").add({
       title: title ?? prompt,
       description: prompt,
       category: category ?? "General",

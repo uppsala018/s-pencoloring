@@ -31,7 +31,7 @@ export async function POST(req: NextRequest) {
 
       if (!userId) return NextResponse.json({ ok: true });
 
-      const userRef = adminDb.collection("users").doc(userId);
+      const userRef = adminDb().collection("users").doc(userId);
 
       if (type === "credits") {
         const credits = Number(session.metadata?.credits ?? 10);
@@ -49,7 +49,7 @@ export async function POST(req: NextRequest) {
       const sub = event.data.object as Stripe.Subscription;
       const userId = sub.metadata?.userId;
       if (userId) {
-        await adminDb.collection("users").doc(userId).update({ plan: "free" });
+        await adminDb().collection("users").doc(userId).update({ plan: "free" });
       }
     }
 

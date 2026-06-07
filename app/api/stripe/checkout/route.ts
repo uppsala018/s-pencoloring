@@ -7,7 +7,7 @@ export async function POST(req: NextRequest) {
     const { type, idToken, returnPage } = await req.json();
 
     // Verify Firebase token
-    const decoded = await adminAuth.verifyIdToken(idToken);
+    const decoded = await adminAuth().verifyIdToken(idToken);
     const userId = decoded.uid;
 
     const successUrl = `${process.env.NEXT_PUBLIC_APP_URL ?? req.nextUrl.origin}/gallery?success=1${returnPage ? `&page=${returnPage}` : ""}`;
