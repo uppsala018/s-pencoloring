@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#8FAF8F"/>
+  <!-- Palette circle -->
+  <circle cx="256" cy="256" r="170" fill="#FDF6E3" stroke="#5a7a5a" stroke-width="12"/>
+  <!-- Color dots on palette -->
+  <circle cx="256" cy="130" r="28" fill="#FF6B6B"/>
+  <circle cx="360" cy="178" r="28" fill="#FFD93D"/>
+  <circle cx="380" cy="290" r="28" fill="#6BCB77"/>
+  <circle cx="310" cy="370" r="28" fill="#4D96FF"/>
+  <circle cx="200" cy="370" r="28" fill="#9B5DE5"/>
+  <circle cx="135" cy="290" r="28" fill="#FF8E53"/>
+  <circle cx="155" cy="178" r="28" fill="#F15BB5"/>
+  <!-- Thumb hole -->
+  <circle cx="310" cy="240" r="30" fill="#8FAF8F"/>
+  <!-- Brush handle -->
+  <rect x="248" y="256" width="20" height="130" rx="10" fill="#A0522D" transform="rotate(35 258 256)"/>
+  <!-- Brush tip -->
+  <ellipse cx="208" cy="356" rx="12" ry="22" fill="#333" transform="rotate(35 258 256)"/>
+</svg>

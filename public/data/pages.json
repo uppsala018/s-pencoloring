@@ -1,0 +1,5902 @@
+[
+  {
+    "id": "page-001",
+    "title": "Lotus Mandala",
+    "category": "Mandalas",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-001.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-002",
+    "title": "Sunburst Mandala",
+    "category": "Mandalas",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-002.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-003",
+    "title": "Celestial Mandala",
+    "category": "Mandalas",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-003.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-004",
+    "title": "Ocean Mandala",
+    "category": "Mandalas",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-004.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-005",
+    "title": "Forest Mandala",
+    "category": "Mandalas",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-005.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-006",
+    "title": "Rose Mandala",
+    "category": "Mandalas",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-006.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-007",
+    "title": "Crystal Mandala",
+    "category": "Mandalas",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-007.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-008",
+    "title": "Moon Mandala",
+    "category": "Mandalas",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-008.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-009",
+    "title": "Star Mandala",
+    "category": "Mandalas",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-009.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-010",
+    "title": "Harmony Mandala",
+    "category": "Mandalas",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-010.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-011",
+    "title": "Zen Mandala",
+    "category": "Mandalas",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-011.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-012",
+    "title": "Dream Mandala",
+    "category": "Mandalas",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-012.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-013",
+    "title": "Spiral Mandala",
+    "category": "Mandalas",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-013.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-014",
+    "title": "Garden Mandala",
+    "category": "Mandalas",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-014.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-015",
+    "title": "Infinity Mandala",
+    "category": "Mandalas",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-015.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-016",
+    "title": "Aurora Mandala",
+    "category": "Mandalas",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-016.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-017",
+    "title": "Sacred Mandala",
+    "category": "Mandalas",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-017.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-018",
+    "title": "Flower Mandala",
+    "category": "Mandalas",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-018.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-019",
+    "title": "Peace Mandala",
+    "category": "Mandalas",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-019.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-020",
+    "title": "Cosmos Mandala",
+    "category": "Mandalas",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-020.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-021",
+    "title": "Butterfly Mandala",
+    "category": "Mandalas",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-021.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-022",
+    "title": "Morning Mandala",
+    "category": "Mandalas",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-022.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-023",
+    "title": "Dusk Mandala",
+    "category": "Mandalas",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-023.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-024",
+    "title": "Earth Mandala",
+    "category": "Mandalas",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-024.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-025",
+    "title": "Fire Mandala",
+    "category": "Mandalas",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-025.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-026",
+    "title": "Hexagon Grid",
+    "category": "Geometric",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-026.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-027",
+    "title": "Diamond Pattern",
+    "category": "Geometric",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-027.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-028",
+    "title": "Star Polygon",
+    "category": "Geometric",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-028.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-029",
+    "title": "Triangle Mosaic",
+    "category": "Geometric",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-029.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-030",
+    "title": "Radial Wedges",
+    "category": "Geometric",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-030.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-031",
+    "title": "Kaleidoscope A",
+    "category": "Geometric",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-031.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-032",
+    "title": "Crystal Grid",
+    "category": "Geometric",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-032.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-033",
+    "title": "Pinwheel Pattern",
+    "category": "Geometric",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-033.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-034",
+    "title": "Starburst Web",
+    "category": "Geometric",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-034.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-035",
+    "title": "Prism Array",
+    "category": "Geometric",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-035.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-036",
+    "title": "Honeycomb Art",
+    "category": "Geometric",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-036.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-037",
+    "title": "Angular Flow",
+    "category": "Geometric",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-037.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-038",
+    "title": "Sacred Geometry",
+    "category": "Geometric",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-038.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-039",
+    "title": "Tessellation A",
+    "category": "Geometric",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-039.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-040",
+    "title": "Tessellation B",
+    "category": "Geometric",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-040.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-041",
+    "title": "Geometric Bloom",
+    "category": "Geometric",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-041.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-042",
+    "title": "Radiant Squares",
+    "category": "Geometric",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-042.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-043",
+    "title": "Diamond Web",
+    "category": "Geometric",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-043.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-044",
+    "title": "Chevron Lattice",
+    "category": "Geometric",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-044.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-045",
+    "title": "Fractal Grid",
+    "category": "Geometric",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-045.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-046",
+    "title": "Concentric Stars",
+    "category": "Geometric",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-046.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-047",
+    "title": "Pentagon Array",
+    "category": "Geometric",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-047.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-048",
+    "title": "Arrow Grid",
+    "category": "Geometric",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-048.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-049",
+    "title": "Spiral Squares",
+    "category": "Geometric",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-049.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-050",
+    "title": "Maze Pattern",
+    "category": "Geometric",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-050.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-051",
+    "title": "Sunflower Field",
+    "category": "Nature",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-051.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-052",
+    "title": "Rose Garden",
+    "category": "Nature",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-052.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-053",
+    "title": "Forest Path",
+    "category": "Nature",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-053.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-054",
+    "title": "Butterfly Meadow",
+    "category": "Nature",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-054.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-055",
+    "title": "Underwater World",
+    "category": "Nature",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-055.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-056",
+    "title": "Daisy Chain",
+    "category": "Nature",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-056.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-057",
+    "title": "Lotus Lake",
+    "category": "Nature",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-057.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-058",
+    "title": "Cherry Blossom",
+    "category": "Nature",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-058.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-059",
+    "title": "Mountain Sunrise",
+    "category": "Nature",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-059.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-060",
+    "title": "Autumn Leaves",
+    "category": "Nature",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-060.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-061",
+    "title": "Spring Tulips",
+    "category": "Nature",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-061.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-062",
+    "title": "Bamboo Grove",
+    "category": "Nature",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-062.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-063",
+    "title": "Cactus Desert",
+    "category": "Nature",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-063.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-064",
+    "title": "Lavender Field",
+    "category": "Nature",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-064.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-065",
+    "title": "Coral Reef",
+    "category": "Nature",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-065.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-066",
+    "title": "Oak Tree",
+    "category": "Nature",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-066.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-067",
+    "title": "Maple Sunset",
+    "category": "Nature",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-067.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-068",
+    "title": "Water Lily",
+    "category": "Nature",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-068.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-069",
+    "title": "Pine Forest",
+    "category": "Nature",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-069.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-070",
+    "title": "Wildflower Patch",
+    "category": "Nature",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-070.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-071",
+    "title": "Fern Glade",
+    "category": "Nature",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-071.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-072",
+    "title": "Ivy Wall",
+    "category": "Nature",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-072.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-073",
+    "title": "Morning Glory",
+    "category": "Nature",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-073.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-074",
+    "title": "Bird of Paradise",
+    "category": "Nature",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-074.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-075",
+    "title": "Tropical Jungle",
+    "category": "Nature",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-075.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-076",
+    "title": "Wise Owl",
+    "category": "Animals",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-076.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-077",
+    "title": "Clever Fox",
+    "category": "Animals",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-077.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-078",
+    "title": "Resting Cat",
+    "category": "Animals",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-078.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-079",
+    "title": "Gentle Elephant",
+    "category": "Animals",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-079.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-080",
+    "title": "Dancing Peacock",
+    "category": "Animals",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-080.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-081",
+    "title": "Forest Deer",
+    "category": "Animals",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-081.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-082",
+    "title": "Playful Bear",
+    "category": "Animals",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-082.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-083",
+    "title": "Proud Lion",
+    "category": "Animals",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-083.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-084",
+    "title": "Happy Rabbit",
+    "category": "Animals",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-084.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-085",
+    "title": "Majestic Horse",
+    "category": "Animals",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-085.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-086",
+    "title": "Striped Tiger",
+    "category": "Animals",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-086.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-087",
+    "title": "Arctic Penguin",
+    "category": "Animals",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-087.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-088",
+    "title": "Soaring Eagle",
+    "category": "Animals",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-088.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-089",
+    "title": "Ocean Dolphin",
+    "category": "Animals",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-089.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-090",
+    "title": "Curious Dog",
+    "category": "Animals",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-090.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-091",
+    "title": "Lotus Spirit",
+    "category": "Fantasy",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-091.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-092",
+    "title": "Celtic Weave",
+    "category": "Fantasy",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-092.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-093",
+    "title": "Star of David",
+    "category": "Fantasy",
+    "difficulty": "easy",
+    "svgUrl": "/coloring-pages/page-093.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-094",
+    "title": "Dream Catcher",
+    "category": "Fantasy",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-094.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-095",
+    "title": "Yin and Yang",
+    "category": "Fantasy",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-095.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  },
+  {
+    "id": "page-096",
+    "title": "Sacred Lotus",
+    "category": "Fantasy",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-096.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FF6B6B",
+        "name": "Red"
+      },
+      {
+        "number": 2,
+        "hex": "#FF8E53",
+        "name": "Orange"
+      },
+      {
+        "number": 3,
+        "hex": "#FFD93D",
+        "name": "Yellow"
+      },
+      {
+        "number": 4,
+        "hex": "#6BCB77",
+        "name": "Green"
+      },
+      {
+        "number": 5,
+        "hex": "#4D96FF",
+        "name": "Blue"
+      },
+      {
+        "number": 6,
+        "hex": "#9B5DE5",
+        "name": "Violet"
+      },
+      {
+        "number": 7,
+        "hex": "#F15BB5",
+        "name": "Pink"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#A8855A",
+        "name": "Brown"
+      },
+      {
+        "number": 10,
+        "hex": "#84D2C5",
+        "name": "Teal"
+      }
+    ]
+  },
+  {
+    "id": "page-097",
+    "title": "Moon Mandala",
+    "category": "Fantasy",
+    "difficulty": "medium",
+    "svgUrl": "/coloring-pages/page-097.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#FFB3BA",
+        "name": "Blush"
+      },
+      {
+        "number": 2,
+        "hex": "#FFDFBA",
+        "name": "Peach"
+      },
+      {
+        "number": 3,
+        "hex": "#FFFFBA",
+        "name": "Lemon"
+      },
+      {
+        "number": 4,
+        "hex": "#BAFFC9",
+        "name": "Mint"
+      },
+      {
+        "number": 5,
+        "hex": "#BAE1FF",
+        "name": "Sky"
+      },
+      {
+        "number": 6,
+        "hex": "#E8BAFF",
+        "name": "Lavender"
+      },
+      {
+        "number": 7,
+        "hex": "#FFD1DC",
+        "name": "Rose"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#C8B8A2",
+        "name": "Sand"
+      },
+      {
+        "number": 10,
+        "hex": "#B5EAD7",
+        "name": "Sage"
+      }
+    ]
+  },
+  {
+    "id": "page-098",
+    "title": "Celestial Ring",
+    "category": "Fantasy",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-098.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#8B4513",
+        "name": "Sienna"
+      },
+      {
+        "number": 2,
+        "hex": "#D2691E",
+        "name": "Chocolate"
+      },
+      {
+        "number": 3,
+        "hex": "#DEB887",
+        "name": "Burlywood"
+      },
+      {
+        "number": 4,
+        "hex": "#228B22",
+        "name": "Forest"
+      },
+      {
+        "number": 5,
+        "hex": "#90EE90",
+        "name": "Light Green"
+      },
+      {
+        "number": 6,
+        "hex": "#87CEEB",
+        "name": "Sky Blue"
+      },
+      {
+        "number": 7,
+        "hex": "#F5DEB3",
+        "name": "Wheat"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#696969",
+        "name": "Dim Gray"
+      },
+      {
+        "number": 10,
+        "hex": "#FFD700",
+        "name": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "page-099",
+    "title": "Infinity Knot",
+    "category": "Fantasy",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-099.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#006994",
+        "name": "Deep Blue"
+      },
+      {
+        "number": 2,
+        "hex": "#40B4E5",
+        "name": "Turquoise"
+      },
+      {
+        "number": 3,
+        "hex": "#7FDBDA",
+        "name": "Aqua"
+      },
+      {
+        "number": 4,
+        "hex": "#FF6347",
+        "name": "Coral"
+      },
+      {
+        "number": 5,
+        "hex": "#FFD700",
+        "name": "Gold"
+      },
+      {
+        "number": 6,
+        "hex": "#98FB98",
+        "name": "Pale Green"
+      },
+      {
+        "number": 7,
+        "hex": "#FF85A1",
+        "name": "Salmon"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "number": 9,
+        "hex": "#F4A460",
+        "name": "Sandy"
+      },
+      {
+        "number": 10,
+        "hex": "#20B2AA",
+        "name": "Sea Green"
+      }
+    ]
+  },
+  {
+    "id": "page-100",
+    "title": "Mandala of Light",
+    "category": "Fantasy",
+    "difficulty": "hard",
+    "svgUrl": "/coloring-pages/page-100.svg",
+    "palette": [
+      {
+        "number": 1,
+        "hex": "#C471ED",
+        "name": "Amethyst"
+      },
+      {
+        "number": 2,
+        "hex": "#F64F59",
+        "name": "Ruby"
+      },
+      {
+        "number": 3,
+        "hex": "#F7971E",
+        "name": "Topaz"
+      },
+      {
+        "number": 4,
+        "hex": "#56CCF2",
+        "name": "Sapphire"
+      },
+      {
+        "number": 5,
+        "hex": "#6FCF97",
+        "name": "Emerald"
+      },
+      {
+        "number": 6,
+        "hex": "#F2994A",
+        "name": "Amber"
+      },
+      {
+        "number": 7,
+        "hex": "#2F80ED",
+        "name": "Lapis"
+      },
+      {
+        "number": 8,
+        "hex": "#FFFFFF",
+        "name": "Pearl"
+      },
+      {
+        "number": 9,
+        "hex": "#FFD200",
+        "name": "Gold"
+      },
+      {
+        "number": 10,
+        "hex": "#EB5757",
+        "name": "Garnet"
+      }
+    ]
+  }
+]

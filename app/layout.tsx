@@ -1,18 +1,23 @@
 import type { Metadata, Viewport } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import { AuthProvider } from "@/context/AuthContext";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
-
-// All pages use Firebase auth — force dynamic rendering (no static prerender)
-export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
   title: "ColorBook — Paint by Numbers for Adults",
   description:
-    "Antistress paint-by-numbers coloring app optimized for Samsung S-Pen. Relax and create beautiful art.",
+    "100 free paint-by-numbers coloring pages. S-Pen optimized, calming music, saves your progress.",
   manifest: "/manifest.json",
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "default",
+    title: "ColorBook",
+  },
+  icons: {
+    apple: "/icon-192.png",
+    icon: "/icon-512.png",
+  },
 };
 
 export const viewport: Viewport = {
@@ -27,7 +32,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en">
       <body className={inter.variable}>
-        <AuthProvider>{children}</AuthProvider>
+        {children}
       </body>
     </html>
   );
