@@ -18,9 +18,10 @@ const cx = 400, cy = 400;
 
 const STROKE = `stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"`;
 const WHITE = `fill="#ffffff"`;
+const BG_COLOR = "#FDF6E3"; // cream — contrasts with white fill so outlines are visible
 
 function svgWrap(body) {
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">\n${body}\n</svg>`;
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">\n<rect width="800" height="800" fill="${BG_COLOR}"/>\n${body}\n</svg>`;
 }
 
 function polyPoints(x, y, r, n, offset = -90) {
